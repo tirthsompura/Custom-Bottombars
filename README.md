@@ -13,3 +13,4 @@
 ## Technology Used
 
 * Jetpack Compose – Modern UI toolkit.
+* Animation
